@@ -92,27 +92,17 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180423103639.1"></t>
 <t tx="leo.20220602152827.1">@language md
 ---
-Title: W
+Title: w8
 Date: 2022-06-02 10:00
 Category: Misc
 Tags: 2022SpringCD
-Slug: W7_uarm.html
+Slug: w8_uarm.html
 Author: 40923113
 ---
 
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
-
-W7使用solvespace製作組合桿件 放到CoppeliaSim 模擬測試
-
-W8將mearm零組件分工合作及繪製
-
-W9繪製mearm零組件
-
-W10製作w10_block_ui、w10_nx_integ 與 w10_ssh WINK影片加以註解
-
-
-
+test
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
