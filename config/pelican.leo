@@ -58,7 +58,7 @@
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
 <v t="leo.20220406131822.1"><vh>@edit w7.md</vh></v>
-<v t="leo.20220602152827.1"><vh>@ w8.md</vh></v>
+<v t="leo.20220602152827.1"><vh>@edit w8.md</vh></v>
 </v>
 </v>
 </v>
@@ -90,20 +90,6 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20220602152827.1">@language md
----
-Title: w8
-Date: 2022-06-02 10:00
-Category: Misc
-Tags: 2022SpringCD
-Slug: w8_uarm.html
-Author: 40923113
----
-
-
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-test
-</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
